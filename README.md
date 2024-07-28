@@ -18,7 +18,7 @@ Statistics
 
 <p align="center">
   <a href="https://github.com/rathod-yuvraj">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rathod-yuvraj&theme=radical" alt="Yuvraj Rathod's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rathod-yuvraj&theme=radical" alt="Yuvraj Rathod's GitHub Days"/>
   </a>
 </p>
 
