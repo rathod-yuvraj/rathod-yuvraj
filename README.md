@@ -1,4 +1,12 @@
 
+
+<div align="center" width="50">
+
+<img src="https://github.com/rathod-yuvraj/rathod-yuvraj/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/rathod-yuvraj" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/rathod-yuvraj/rathod-yuvraj/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/rathod-yuvraj" alt="CoDiNg RocKs"  width="60%"/><br> 
+  
+<p><strong>Learner & College Student.
+<br><br> Vibing to : 🎧  </strong></p>
 - Web Development
 <img src="https://github.com/rathod-yuvraj/rathod-yuvraj/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
