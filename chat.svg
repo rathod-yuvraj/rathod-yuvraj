@@ -326,8 +326,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="linkedin.com/in/yuvraj-rathod-a39350285">https://twitter.com/jasonlong</a>
+      You can find me on Linkdin at
+      <a xlink:href="https://www.linkedin.com/in/yuvraj-rathod-a39350285">https://twitter.com/jasonlong</a>
     </text>
   </g>
 
@@ -352,7 +352,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for stopping by</text>
+    <text x="15" y="27">Thanks for Visiting by</text>
   </g>
 
   <!-- typing 6 -->
