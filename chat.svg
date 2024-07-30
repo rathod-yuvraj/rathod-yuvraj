@@ -248,10 +248,10 @@
 
   </g>
 
-  <!-- Hi, I'm Jason -->
+  <!-- Hi, I'm Rathod -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <text x="15" y="27">Hi, I'm Rathod</text>
   </g>
 
   <!-- typing 2 -->
@@ -327,7 +327,7 @@
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      <a xlink:href="linkedin.com/in/yuvraj-rathod-a39350285">https://twitter.com/jasonlong</a>
     </text>
   </g>
 
