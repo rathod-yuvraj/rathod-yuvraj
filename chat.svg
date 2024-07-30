@@ -322,12 +322,23 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- my createTwitter -->
+   <g transform="translate(10, 192)" class="msg-4">
+    <rect width="513" height="42" rx="18.0355" class="bubble" fill="#f0f0f0" />
+    <a xlink:href="https://www.linkedin.com/in/yuvraj-rathod-a39350285/" target="_blank">
+      <text x="15" y="27" font-family="Arial" font-size="16" fill="black">
+        You can find me on LinkedIn at
+        <tspan fill="blue" text-decoration="underline"> LinkedIn</tspan>
+      </text>
+    </a>
+  </g>
+<!--   Twitter -->
+  
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Linkdin at
-      <a xlink:href="https://www.linkedin.com/in/yuvraj-rathod-a39350285">https://www.linkedin.com/in/yuvraj-rathod-a39350285</a>
+      <a xlink:href="https://www.linkedin.com/in/yuvraj-rathod-a39350285/">linkedin</a>
     </text>
   </g>
 
