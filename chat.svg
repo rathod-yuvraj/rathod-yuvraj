@@ -274,7 +274,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="939" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="639" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I have Study in Ajeenkya D Y Patil School og Enginnering</text>
     <text x="15" y="50">Pune <tspan class="emoji">⛈</tspan> today.</text>
   </g>
