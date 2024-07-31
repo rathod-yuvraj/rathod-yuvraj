@@ -275,8 +275,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
-    <text x="15" y="50">86° F (30° C) and <tspan class="emoji">⛈</tspan> today.</text>
+    <text x="15" y="27">I have Study in Ajeenkya D Y Patil School og Enginnering</text>
+    <text x="15" y="50">Pune <tspan class="emoji">⛈</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for over 3 years now.</text>
+    <text x="15" y="27">I’m a Computer Engineering,</text>
+    <text x="15" y="50">Student of Final year.</text>
   </g>
 
   <!-- typing 4 -->
