@@ -8,7 +8,7 @@
 <p><strong>Learner & College Student.
 <br><br> Vibing to : 🎧  </strong></p>
 - Web Development
-<img src="https://github.com/rathod-yuvraj/rathod-yuvraj/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<!-- <img src="https://github.com/rathod-yuvraj/rathod-yuvraj/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900"> -->
 <br><br>
 - 👋 Hi, I’m @rathod-yuvraj
 - 👀 I’m interested in ...
