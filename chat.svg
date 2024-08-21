@@ -251,7 +251,7 @@
   <!-- Hi, I'm Rathod -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Rathod</text>
+    <text x="15" y="27">Hi, I'm Raj Rathod</text>
   </g>
 
   <!-- typing 2 -->
@@ -275,7 +275,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="539" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I have Study in Ajeenkya D Y Patil School og Enginnering</text>
+    <text x="15" y="27">I have studied at Ajeenkya D Y Patil School og Enginnering</text>
     <text x="15" y="50">Pune <tspan class="emoji">⛈</tspan> today.</text>
   </g>
 
@@ -296,12 +296,14 @@
     </circle>
 
   </g>
+<!-- Final Year Student -->
 
   <!-- Work ... -->
+<!--   Introduction -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a Computer Engineering,</text>
-    <text x="15" y="50">Student of Final year.</text>
+    <text x="15" y="27">I'm a Computer Engineering student,</text>
+    <text x="15" y="50">in my final year..</text>
   </g>
 
   <!-- typing 4 -->
@@ -363,7 +365,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Thanks for Visiting by</text>
+    <text x="15" y="27">Thanks for visiting!</text>
   </g>
 
   <!-- typing 6 -->
@@ -387,6 +389,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="235" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>  
+    <text x="15" y="27">Have a great day! 👋 <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
