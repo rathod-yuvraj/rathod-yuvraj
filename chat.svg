@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Rathod -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
+    <rect width="233" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Yuvraj Rathod</text>
   </g>
 
@@ -276,7 +276,7 @@
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="539" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I have studied at Ajeenkya D Y Patil School og Enginnering</text>
-    <text x="15" y="50">Pune <tspan class="emoji">⛈</tspan> today.</text>
+    <text x="15" y="50">Pune <tspan class="emoji">.</text>
   </g>
 
   <!-- typing 3 -->
