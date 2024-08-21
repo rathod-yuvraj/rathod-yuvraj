@@ -334,10 +334,10 @@
       </text>
     </a>
   </g>-->
-<!--   Twitter -->
+<!--   Lindin -->
   
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="413" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Linkdin at
       <a xlink:href="https://www.linkedin.com/in/yuvraj-rathod-a39350285">Linkedin</a>
