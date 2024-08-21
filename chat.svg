@@ -301,7 +301,7 @@
   <!-- Work ... -->
 <!--   Introduction -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="339" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm a Computer Engineering student,</text>
     <text x="15" y="50">in my final year..</text>
   </g>
