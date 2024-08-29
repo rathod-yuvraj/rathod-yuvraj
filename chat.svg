@@ -275,7 +275,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="539" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I have studied at Ajeenkya D Y Patil School og Enginnering</text>
+    <text x="15" y="27">I have studied at Ajeenkya D Y Patil School of Enginnering</text>
     <text x="15" y="50">Pune.</text>
   </g>
 
@@ -340,7 +340,7 @@
     <rect width="413" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Linkdin at
-      <a xlink:href="www.linkedin.com/in/rathodyuvraj">Linkedin</a>
+      <a xlink:href="www.linkedin.com/in/rathodyuvraj">rathod-yuvraj</a>
     </text>
   </g>
 
